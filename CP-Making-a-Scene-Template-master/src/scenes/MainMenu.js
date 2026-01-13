@@ -8,7 +8,7 @@ class MainMenu extends Phaser.Scene {
         console.log('MainManu:init')
         this.HP = 100
         this.EXP = 0
-        console.log('HP: ${this.HP} EXP: ${this.EXP}')
+        console.log(`HP: ${this.HP} EXP: ${this.EXP}`)
         console.log(this)
     }
 
